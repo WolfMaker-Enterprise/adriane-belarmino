@@ -13,12 +13,12 @@ body {
 }
 
 header {
-    padding: 1rem 2rem;
+    padding: 0.3rem 0.1rem;
     background-color: #fcefdc;
 }
 
 .logo-top img {
-    height: 100px;
+    height: 160px;
     display: block;
     margin: 0 auto;
 }
